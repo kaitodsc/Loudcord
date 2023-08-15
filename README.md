@@ -9,7 +9,7 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
 
 # Installation
 
-1) extract Loudcord and the EXTRACT THIS.rar because it was too big for Github apparently so I had to pack it.
+1) extract Loudcord
 
 2) install **https://www.msys2.org**
    
