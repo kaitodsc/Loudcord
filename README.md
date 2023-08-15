@@ -1,6 +1,6 @@
 # Loudcord
 
-Hey, this is the Loudcord the loudmic com was paying, for about 150 usd, I just decided to release it because I am simply quiting this toxic community, enjoy, you got the sourcecode, for a Tutorial on how to build it, just follow these steps :
+Hey, this is the Loudcord the loudmic com was paying, for about 150 usd, I just decided to release it because I am simply quiting this toxic community, enjoy, you got the sourcecode, for a Tutorial on how to build it, just follow the installations steps.
 
 # What is Loudcord ?
 
@@ -21,7 +21,7 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
 
 5) Don't delete the 3 files already in the BUILD file, because they are necessary to make it work.
   
-6) Now you can launch it using " start abaddon.exe "
+6) Now you can launch it using " start abaddon.exe " and you can ONLY launch it by doing that !
 
 # How to use it and be really loud ?
 
