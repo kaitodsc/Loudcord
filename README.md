@@ -32,7 +32,7 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
 # How to use it and be really loud ?
 
 Simple, when you launched it, click " Discord " and " set token " , then click " CONNECT ", when you did that, join a voice chat, put the volume like you want, its basicly the " gain bar " of Ripcord but with volume.
-When you are in a VC, click " View " and " More settings " at the top left of the volume bar, and set the bitrate to 500 000 not more otherwise it will crash.
+When you are in a VC, click " View " and " More settings " at the top left of the volume bar, and set the bitrate to 500 000 not more otherwise it will crash. YOU NEED TO SWITCH, from your mic, to another thing, to your mic, because for some reason it cut a little.
 
 # How loud is it ?
 
