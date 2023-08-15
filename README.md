@@ -11,7 +11,7 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
 
 1) extract Loudcord and the EXTRACT THIS.rar because it was too big for Github apparently so I had to pack it.
 
-2) install https://www.msys2.org
+2) install **https://www.msys2.org**
    
 3) go into MSYS2 folders, and install the thing bellowand look for " mingw64 " when you did that, just replace the mingw64 file with this one because it contain a custom audio encoder ( edited OPUS )
  
@@ -26,7 +26,7 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
 
 5) Don't delete the 3 files already in the BUILD file, because they are necessary to make it work.
   
-6) Now you can launch it using " start abaddon.exe " and you can ONLY launch it by doing that !
+6) Now you can launch it using " **start abaddon.exe** " and you can ONLY launch it by doing that !
 
 # How to use it and be really loud ?
 
