@@ -21,8 +21,8 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
 
 5) now, just use these commands :
  
-# cmake -GNinja -DCMAKE_BUILD_TYPE=RelWithDebInfo ..
-# ninja
+** cmake -GNinja -DCMAKE_BUILD_TYPE=RelWithDebInfo ..**
+** ninja**
 
 5) Don't delete the 3 files already in the BUILD file, because they are necessary to make it work.
   
