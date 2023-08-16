@@ -7,11 +7,11 @@ Hey, this is the Loudcord the loudmic com was paying, for about 150 usd, I just 
 Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has increased volume etc ... You are free to edit it to add your own things like discord exploits or sum. I just made it louder.
 
 
-# Installation
+# Installation if you have any issue dm me " kashdauhq"  on Discord.
 
 1) extract Loudcord
 
-2) install **https://www.msys2.org**
+2) install **https://www.msys2.org** and cmake if needed, watch a tutorial here : https://www.youtube.com/watch?v=8_X5Iq9niDE&ab_channel=Aredhele 
    
 3) go into MSYS2 folders, and install the thing bellowand look for " mingw64 " when you did that, just replace the mingw64 file with this one because it contain a custom audio encoder ( edited OPUS )
  
