@@ -15,7 +15,7 @@ Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has in
    
 3) go into MSYS2 folders, and install the thing below, when you did that, just replace the whole msys2 file with this one because it contain a custom audio encoder ( edited OPUS )
  
-** https://mega.nz/file/3IIBSIYJ#gKa4o6wYA4HI4_QoJMcmTBN0yIaqHROGKwGOAKJJ9ZM **
+**https://mega.nz/file/3IIBSIYJ#gKa4o6wYA4HI4_QoJMcmTBN0yIaqHROGKwGOAKJJ9ZM**
  
 4) when you did that, launch MSYS2 MINGW64 and not another one ! and does these commands : CD to the destination, for example, for me its : " d:/d/loudcord/build " but for you it's different.
 
