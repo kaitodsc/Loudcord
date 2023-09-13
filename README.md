@@ -7,7 +7,7 @@ Hey, this is the Loudcord the loudmic com was paying, for about 150 usd, I just 
 Loudcord is a fork of Abaddon Discord client, but made for loudmicing, it has increased volume etc ... You are free to edit it to add your own things like discord exploits or sum. I just made it louder.
 
 
-# Installation if you have any issue dm me " kashdauhq"  on Discord.
+# Installation if you have any issue dm me " kashdadsc"  on Discord.
 
 1) extract Loudcord
 
